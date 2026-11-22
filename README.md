@@ -1,21 +1,12 @@
-# Entregables - Materia de Pruebas
+# Entregables Pruebas 2
 
-Repositorio destinado a la gestión, almacenamiento y control de versiones de los documentos y entregables correspondientes a la materia de **Pruebas de Software**.
+Este repositorio está destinado a almacenar y centralizar todos los entregables, evidencias, documentación técnica y artefactos generados durante las actividades de pruebas de software.
 
----
+## Descripción
 
-## 📁 Estructura del Repositorio
+En este espacio se gestionan de manera organizada los reportes de ejecución, planes de pruebas, casos de prueba y documentación de soporte correspondientes a los diferentes cortes académicos y fases de evaluación.
 
-A continuación se describen los documentos y archivos principales del proyecto:
+## Estructura del Repositorio
 
-* **`Catalogo_y_Matriz Pruebas.xlsx`**: Matriz de pruebas y catálogo detallado con los casos de prueba diseñados para el sistema.
-* **`PS_Equipo[T,C,E]_C1_PlanMaestro .docx.pdf`**: Plan Maestro de Pruebas (Master Test Plan) correspondiente a la primera entrega del equipo.
-
----
-
-## 🛠️ Temáticas y Contenidos
-
-* Diseño y ejecución de casos de prueba.
-* Planificación y estrategia de pruebas de software.
-* Matriz de trazabilidad y cobertura.
-* Gestión de riesgos e informes de resultados.
+- **docs/**: Carpeta principal de documentación y reportes.
+  - **corte 2/**: Contiene el material, evidencias y entregables específicos del segundo corte.
